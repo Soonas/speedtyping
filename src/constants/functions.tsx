@@ -28,11 +28,11 @@ export const nextWordFirstPosition = (phrase: string, initialPosition: number) =
     return position + emptySpaces(phrase, position) + 1
 }
 
-export const compareWords = (samplePhrase: string, userTypedWord: string, initialPosition: number) => {
+export const compareWords = (samplePhrase: string, userTypedPhrase: string, initialPosition: number) => {
     let position
     const length = wordLength(samplePhrase, initialPosition)
     for (position = initialPosition; position < length; position++)
-        if (samplePhrase[position] !== userTypedWord[position])
+        if (samplePhrase[position] !== userTypedPhrase[position])
             return false
     return true
 }
