@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speedtyping/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/speedtyping/static/js/main.0b5c5e56.chunk.js",
+    "main.js.map": "/speedtyping/static/js/main.0b5c5e56.chunk.js.map",
+    "runtime-main.js": "/speedtyping/static/js/runtime-main.937d1fda.js",
+    "runtime-main.js.map": "/speedtyping/static/js/runtime-main.937d1fda.js.map",
+    "static/js/2.960e8040.chunk.js": "/speedtyping/static/js/2.960e8040.chunk.js",
+    "static/js/2.960e8040.chunk.js.map": "/speedtyping/static/js/2.960e8040.chunk.js.map",
+    "static/js/3.98edc278.chunk.js": "/speedtyping/static/js/3.98edc278.chunk.js",
+    "static/js/3.98edc278.chunk.js.map": "/speedtyping/static/js/3.98edc278.chunk.js.map",
+    "index.html": "/speedtyping/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/speedtyping/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.960e8040.chunk.js.LICENSE.txt": "/speedtyping/static/js/2.960e8040.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.937d1fda.js",
+    "static/js/2.960e8040.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0b5c5e56.chunk.js"
+  ]
+}
